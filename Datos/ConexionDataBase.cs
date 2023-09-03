@@ -15,7 +15,7 @@ namespace Datos
 		static string servidor = "localhost";
 		static string bd = "punto_de_venta"; //base de datos
 		static string usuario = "root";
-		static string password = "M3r3ngue@22";
+		static string password = "[your pass]";
 		static string puerto = "3306";
 		string cadenaConexion = "server=" + servidor + ";" + "port=" + puerto + ";" +
 			"user id=" + usuario + ";" + "password=" + password + ";" + "database=" + bd;
